@@ -1,0 +1,4 @@
+**
+**  mac host修改翻墙
+**   
+1、http://laod.cn/hosts/2016-google-hosts.html
